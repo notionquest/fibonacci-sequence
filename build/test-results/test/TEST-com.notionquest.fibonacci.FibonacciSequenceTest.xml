@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.notionquest.fibonacci.FibonacciSequenceTest" tests="11" skipped="0" failures="0" errors="0" timestamp="2018-11-10T18:37:04" hostname="MGBHS186042-712" time="0.015">
+  <properties/>
+  <testcase name="test_39" classname="com.notionquest.fibonacci.FibonacciSequenceTest" time="0.008"/>
+  <testcase name="test_100" classname="com.notionquest.fibonacci.FibonacciSequenceTest" time="0.003"/>
+  <testcase name="test_0" classname="com.notionquest.fibonacci.FibonacciSequenceTest" time="0.0"/>
+  <testcase name="test_1" classname="com.notionquest.fibonacci.FibonacciSequenceTest" time="0.0"/>
+  <testcase name="test_2" classname="com.notionquest.fibonacci.FibonacciSequenceTest" time="0.0"/>
+  <testcase name="test_3" classname="com.notionquest.fibonacci.FibonacciSequenceTest" time="0.0"/>
+  <testcase name="test_4" classname="com.notionquest.fibonacci.FibonacciSequenceTest" time="0.001"/>
+  <testcase name="test_5" classname="com.notionquest.fibonacci.FibonacciSequenceTest" time="0.0"/>
+  <testcase name="test_6" classname="com.notionquest.fibonacci.FibonacciSequenceTest" time="0.001"/>
+  <testcase name="test_7" classname="com.notionquest.fibonacci.FibonacciSequenceTest" time="0.0"/>
+  <testcase name="test_8" classname="com.notionquest.fibonacci.FibonacciSequenceTest" time="0.001"/>
+  <system-out><![CDATA[2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+2
+2
+3
+2
+3
+4
+2
+3
+4
+5
+2
+3
+4
+5
+6
+2
+3
+4
+5
+6
+7
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
